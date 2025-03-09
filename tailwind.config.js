@@ -7,7 +7,7 @@ module.exports = {
     extend: {
       colors: {
         'luna': {
-          'primary': '#6366f1', // фіолетовий
+          'primary': '#6366f1',
           'secondary': '#4f46e5',
           'background': '#f9fafb',
           'error': '#ef4444',
